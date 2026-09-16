@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-9t6x9m-m9i9!q+ulf2)6c*!lor^alehak7o0@-#3qm@u*-n4-4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['music-backend-app-1-h5lj.onrender.com']
+ALLOWED_HOSTS = ['music-backend-app-4cv8.onrender.com']
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
